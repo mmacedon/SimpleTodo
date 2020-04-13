@@ -25,8 +25,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+https://github.uci.edu/mmacedon/SimpleTodo/blob/master/walkthrough.mp4
+App tested on personal device and recorded on personal device. 
 
 ## Notes
 
